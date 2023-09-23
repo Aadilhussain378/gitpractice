@@ -7,3 +7,6 @@ def multiplication(x,y):
 
 def div(x,y):
     return x/y
+
+def modulus(x,y):
+    return x%y
